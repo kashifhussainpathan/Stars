@@ -1,0 +1,21 @@
+.App {
+  color: rgba(0, 0, 0, 0.7);
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
+.stars {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+svg {
+  font-size: 2rem;
+  margin: 0.5rem;
+  cursor: pointer;
+  color: goldenrod;
+}
